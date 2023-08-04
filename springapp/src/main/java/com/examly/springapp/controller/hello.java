@@ -14,9 +14,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.example.demo5.dao.UserDAO;
+import com.examly.springapp.dao.UserDAO;
 
-import com.example.demo5.model.User;
+import com.examly.springapp.model.User;
 
 @Controller
 public class hello {
